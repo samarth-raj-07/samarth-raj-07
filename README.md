@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarth-raj-07&label=Profile%20views&color=0e75b6&style=flat" alt="samarth-raj-07" /> </p>
 <img align="right" alt="Coding" width="300" src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bed2f9c710d07b87e46_j_nvR0IzCf_p7I48K25FPArjljVHgn9nyzrTjs9Y3fN6SWjrhZN31UtY7K0mLmMc11PA3ITO3Pdx2R4aq3ZKnh-Tkp5Id1pwFUssGEYZVNy2dfrtsvZ2aC2bZbrnUyd-gqgKKEja.gif">
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **full stack projects.**
 
